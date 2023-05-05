@@ -42,13 +42,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.09 (now)*, PhD Student, Ritsumeikan University, Japan. 
+- *2017.09 - 2020.06*, Master, Beijing University of Civil Engineering and Architecture, Beijing, China. 
 - *2013.09 - 2017.06*, Bachelor, Beijing University of Civil Engineering and Architecture, Beijing, China. 
 
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Work Experience
+- *2021.10 - 2022.09*, SLAM algorithm engineer, [Xiaomi Inc.](https://www.mi.com/global/), China.
+- *2020.07 - 2021.09*, Research assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), China.
+
+# Honors and Awards
+- *2020* Beijing Outstanding Graduates (Top 5%)
+- *2020* Outstanding Graduate Thesis Award at School Level (Top 5%)
+- *2019* National Scholarship for Postgraduates (Top 5%)
