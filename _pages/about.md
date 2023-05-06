@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# Educations
+# Education
 - *2022.09 - Present*, PhD Student, Ritsumeikan University, Japan. 
 - *2017.09 - 2020.06*, Master, Beijing University of Civil Engineering and Architecture, Beijing, China. 
 - *2013.09 - 2017.06*, Bachelor, Beijing University of Civil Engineering and Architecture, Beijing, China. 
