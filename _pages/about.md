@@ -21,11 +21,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+<span class='anchor' id='-news'></span>
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='-publications'></span>
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -42,15 +43,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<span class='anchor' id='-education'></span>
 # Education
 - *2022.09 - Present*, PhD Student, Ritsumeikan University, Japan. 
 - *2017.09 - 2020.06*, Master, Beijing University of Civil Engineering and Architecture, Beijing, China. 
 - *2013.09 - 2017.06*, Bachelor, Beijing University of Civil Engineering and Architecture, Beijing, China. 
 
+<span class='anchor' id='-work-experience'></span>
 # Work Experience
 - *2021.10 - 2022.09*, SLAM algorithm engineer, [Xiaomi Inc.](https://www.mi.com/global/), China.
 - *2020.07 - 2021.09*, Research assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), China.
 
+<span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
 - *2020* Beijing Outstanding Graduates (Top 5%)
 - *2020* Outstanding Graduate Thesis Award at School Level (Top 5%)
