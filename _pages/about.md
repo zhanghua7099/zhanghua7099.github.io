@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm Huayan Zhang, a PhD student in [BioInMech Lab](http://www.malab.se.ritsumei.ac.jp/top/index_e.php). 
 
-My research interest includes SLAM and .
+My research interests include SLAM and dense 3D reconstruction. 
 
 <span class='anchor' id='-news'></span>
 # News
