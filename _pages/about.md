@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Huayan Zhang, a PhD student in [BioInMech Lab](http://www.malab.se.ritsumei.ac.jp/top/index_e.php). 
+Hi! I'm Huayan Zhang, a PhD student in [Cloud Robotics Laboratory](https://rits-wang-lab.com/). 
 
-My research interests include SLAM and dense 3D reconstruction. 
+My research interests include dense 3D reconstruction and SLAM. 
 
 <span class='anchor' id='-news'></span>
 # News
-- *2023.05*: The website is established!
+- *2024.01*: The website was established!
 
 <span class='anchor' id='-publications'></span>
 # Publications 
